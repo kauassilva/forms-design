@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" width="34" height="34">
+	<title>f_logo_RGB-White_1024-ai</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #cccccc } 
+	</style>
+	<g id="Ebene 1">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="shp0" d="M34 17C34 7.61 26.39 0 17 0C7.61 0 0 7.61 0 17C0 25.49 6.22 32.52 14.34 33.79L14.34 21.91L10.03 21.91L10.03 17L14.34 17L14.34 13.25C14.34 8.99 16.88 6.64 20.76 6.64C22 6.64 23.27 6.75 24.57 6.97L24.57 11.16L22.43 11.16C20.31 11.16 19.66 12.47 19.66 13.81L19.66 17L24.37 17L23.62 21.91L19.66 21.91L19.66 33.79C27.78 32.52 34 25.49 34 17Z" />
+		</g>
+	</g>
+</svg>
